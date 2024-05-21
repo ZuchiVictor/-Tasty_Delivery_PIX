@@ -1,0 +1,8 @@
+C:\Users\victo\PixMicroservice\obj\Debug\net8.0\PixMicroservice.csproj.AssemblyReference.cache
+C:\Users\victo\PixMicroservice\obj\Debug\net8.0\MvcTestingAppManifest.json
+C:\Users\victo\PixMicroservice\obj\Debug\net8.0\PixMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\PixMicroservice\obj\Debug\net8.0\PixMicroservice.AssemblyInfoInputs.cache
+C:\Users\victo\PixMicroservice\obj\Debug\net8.0\PixMicroservice.AssemblyInfo.cs
+C:\Users\victo\PixMicroservice\obj\Debug\net8.0\PixMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\victo\PixMicroservice\obj\Debug\net8.0\PixMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\victo\PixMicroservice\obj\Debug\net8.0\PixMicroservice.MvcApplicationPartsAssemblyInfo.cache
