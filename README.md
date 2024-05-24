@@ -1,4 +1,4 @@
-# Tasty Delivery 🍕
+# Tasty Delivery Microsserviço Pagamento 🍕
 
 App que conecta clientes ao restaurante Tasty, sem passar pela
 camada de atendimento presencial.
