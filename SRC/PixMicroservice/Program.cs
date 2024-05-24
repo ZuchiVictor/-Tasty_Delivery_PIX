@@ -1,4 +1,6 @@
 using Google.Api;
+using MercadoPago.Config;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.OpenApi.Models;
 
 
@@ -17,16 +19,22 @@ builder.Services.AddSwaggerGen(c => {
 
 var app = builder.Build();
 
-
-
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
-
+// Configure o pipeline HTTP.
 app.UseHttpsRedirection();
+
+app.UseAuthorization();
+
+app.MapControllers();
+
+// Initialize SDK
+MercadoPagoConfig.AccessToken = "TEST-4763904494948372-052122-142d8d655e8b9f22f5d241ad3612cf62-80196247";
+
+
+app.UseSwagger();
+    app.UseSwaggerUI();
+
+
+//app.UseHttpsRedirection();
 
 
 

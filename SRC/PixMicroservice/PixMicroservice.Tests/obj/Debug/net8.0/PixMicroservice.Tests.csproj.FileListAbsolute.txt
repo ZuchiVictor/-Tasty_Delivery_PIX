@@ -1,7 +1,0 @@
-C:\Users\victo\PixMicroservice\PixMicroservice.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_PixMicroservice.Tests
-C:\Users\victo\PixMicroservice\PixMicroservice.Tests\obj\Debug\net8.0\PixMicroservice.Tests.csproj.AssemblyReference.cache
-C:\Users\victo\PixMicroservice\PixMicroservice.Tests\obj\Debug\net8.0\MvcTestingAppManifest.json
-C:\Users\victo\PixMicroservice\PixMicroservice.Tests\obj\Debug\net8.0\PixMicroservice.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\victo\PixMicroservice\PixMicroservice.Tests\obj\Debug\net8.0\PixMicroservice.Tests.AssemblyInfoInputs.cache
-C:\Users\victo\PixMicroservice\PixMicroservice.Tests\obj\Debug\net8.0\PixMicroservice.Tests.AssemblyInfo.cs
-C:\Users\victo\PixMicroservice\PixMicroservice.Tests\obj\Debug\net8.0\PixMicroservice.Tests.csproj.CoreCompileInputs.cache

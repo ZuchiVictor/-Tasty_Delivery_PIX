@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PixMicroservice", "PixMicroservice.csproj", "{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PixMicroservice.Tests", "PixMicroservice.Tests\PixMicroservice.Tests.csproj", "{514930A5-E56F-40F5-814A-0433069AD250}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject_PIX", "..\TestProject_PIX\TestProject_PIX.csproj", "{353448EF-41AE-4D11-947B-AC8263C6C3D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{514930A5-E56F-40F5-814A-0433069AD250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{514930A5-E56F-40F5-814A-0433069AD250}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{514930A5-E56F-40F5-814A-0433069AD250}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{514930A5-E56F-40F5-814A-0433069AD250}.Release|Any CPU.Build.0 = Release|Any CPU
+		{353448EF-41AE-4D11-947B-AC8263C6C3D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{353448EF-41AE-4D11-947B-AC8263C6C3D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{353448EF-41AE-4D11-947B-AC8263C6C3D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{353448EF-41AE-4D11-947B-AC8263C6C3D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

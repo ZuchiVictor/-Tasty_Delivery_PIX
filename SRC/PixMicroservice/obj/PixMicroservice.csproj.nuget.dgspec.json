@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victo\\PixMicroservice\\PixMicroservice.csproj": {}
+    "C:\\Users\\victo\\Downloads\\-Tasty_Delivery_PIX\\SRC\\PixMicroservice\\PixMicroservice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victo\\PixMicroservice\\PixMicroservice.csproj": {
+    "C:\\Users\\victo\\Downloads\\-Tasty_Delivery_PIX\\SRC\\PixMicroservice\\PixMicroservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victo\\PixMicroservice\\PixMicroservice.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\Downloads\\-Tasty_Delivery_PIX\\SRC\\PixMicroservice\\PixMicroservice.csproj",
         "projectName": "PixMicroservice",
-        "projectPath": "C:\\Users\\victo\\PixMicroservice\\PixMicroservice.csproj",
+        "projectPath": "C:\\Users\\victo\\Downloads\\-Tasty_Delivery_PIX\\SRC\\PixMicroservice\\PixMicroservice.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victo\\PixMicroservice\\obj\\",
+        "outputPath": "C:\\Users\\victo\\Downloads\\-Tasty_Delivery_PIX\\SRC\\PixMicroservice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,6 +65,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.1, )"
+            },
+            "mercadopago-sdk": {
+              "target": "Package",
+              "version": "[2.3.8, )"
             },
             "xunit": {
               "target": "Package",
