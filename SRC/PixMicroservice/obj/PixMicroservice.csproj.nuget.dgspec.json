@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victo\\Downloads\\-Tasty_Delivery_PIX\\SRC\\PixMicroservice\\PixMicroservice.csproj": {}
+    "C:\\Users\\victo\\Downloads\\Tasty_Delivery_PIX_CSharp_Updated (1)\\-Tasty_Delivery_PIX\\SRC\\PixMicroservice\\PixMicroservice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victo\\Downloads\\-Tasty_Delivery_PIX\\SRC\\PixMicroservice\\PixMicroservice.csproj": {
+    "C:\\Users\\victo\\Downloads\\Tasty_Delivery_PIX_CSharp_Updated (1)\\-Tasty_Delivery_PIX\\SRC\\PixMicroservice\\PixMicroservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victo\\Downloads\\-Tasty_Delivery_PIX\\SRC\\PixMicroservice\\PixMicroservice.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\Downloads\\Tasty_Delivery_PIX_CSharp_Updated (1)\\-Tasty_Delivery_PIX\\SRC\\PixMicroservice\\PixMicroservice.csproj",
         "projectName": "PixMicroservice",
-        "projectPath": "C:\\Users\\victo\\Downloads\\-Tasty_Delivery_PIX\\SRC\\PixMicroservice\\PixMicroservice.csproj",
+        "projectPath": "C:\\Users\\victo\\Downloads\\Tasty_Delivery_PIX_CSharp_Updated (1)\\-Tasty_Delivery_PIX\\SRC\\PixMicroservice\\PixMicroservice.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victo\\Downloads\\-Tasty_Delivery_PIX\\SRC\\PixMicroservice\\obj\\",
+        "outputPath": "C:\\Users\\victo\\Downloads\\Tasty_Delivery_PIX_CSharp_Updated (1)\\-Tasty_Delivery_PIX\\SRC\\PixMicroservice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",

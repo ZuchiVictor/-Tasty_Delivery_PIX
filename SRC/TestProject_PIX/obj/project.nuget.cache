@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ThzR9AcwWHdJQUQvl7CeF3rFeV/J5BuQ0V8kCJjeVhYUSUU29KQUWguHmj+2OVM8+o6BXFrldiFAZUOO/8CWAQ==",
+  "dgSpecHash": "UNswVaUUOn+RBd+gNVd5KddBBKvVMAw48LhLTa0JgpZEVFvyXo6LLkvzLbBCaZfgaqu6NpfT3LjM4Y+Uem0Gpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victo\\Downloads\\-Tasty_Delivery_PIX\\SRC\\TestProject_PIX\\TestProject_PIX.csproj",
+  "projectFilePath": "C:\\Users\\victo\\Downloads\\Tasty_Delivery_PIX_CSharp_Updated (1)\\-Tasty_Delivery_PIX\\SRC\\TestProject_PIX\\TestProject_PIX.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\couchbasenetclient\\3.5.2\\couchbasenetclient.3.5.2.nupkg.sha512",

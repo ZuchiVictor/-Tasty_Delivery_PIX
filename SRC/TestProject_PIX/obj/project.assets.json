@@ -4570,11 +4570,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victo\\Downloads\\-Tasty_Delivery_PIX\\SRC\\TestProject_PIX\\TestProject_PIX.csproj",
+      "projectUniqueName": "C:\\Users\\victo\\Downloads\\Tasty_Delivery_PIX_CSharp_Updated (1)\\-Tasty_Delivery_PIX\\SRC\\TestProject_PIX\\TestProject_PIX.csproj",
       "projectName": "TestProject_PIX",
-      "projectPath": "C:\\Users\\victo\\Downloads\\-Tasty_Delivery_PIX\\SRC\\TestProject_PIX\\TestProject_PIX.csproj",
+      "projectPath": "C:\\Users\\victo\\Downloads\\Tasty_Delivery_PIX_CSharp_Updated (1)\\-Tasty_Delivery_PIX\\SRC\\TestProject_PIX\\TestProject_PIX.csproj",
       "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victo\\Downloads\\-Tasty_Delivery_PIX\\SRC\\TestProject_PIX\\obj\\",
+      "outputPath": "C:\\Users\\victo\\Downloads\\Tasty_Delivery_PIX_CSharp_Updated (1)\\-Tasty_Delivery_PIX\\SRC\\TestProject_PIX\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4592,8 +4592,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\victo\\Downloads\\-Tasty_Delivery_PIX\\SRC\\PixMicroservice\\PixMicroservice.csproj": {
-              "projectPath": "C:\\Users\\victo\\Downloads\\-Tasty_Delivery_PIX\\SRC\\PixMicroservice\\PixMicroservice.csproj"
+            "C:\\Users\\victo\\Downloads\\Tasty_Delivery_PIX_CSharp_Updated (1)\\-Tasty_Delivery_PIX\\SRC\\PixMicroservice\\PixMicroservice.csproj": {
+              "projectPath": "C:\\Users\\victo\\Downloads\\Tasty_Delivery_PIX_CSharp_Updated (1)\\-Tasty_Delivery_PIX\\SRC\\PixMicroservice\\PixMicroservice.csproj"
             }
           }
         }

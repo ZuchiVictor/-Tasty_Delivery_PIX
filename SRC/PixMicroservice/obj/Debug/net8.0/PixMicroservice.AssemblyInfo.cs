@@ -11,7 +11,13 @@
 using System;
 using System.Reflection;
 
-
+[assembly: System.Reflection.AssemblyCompanyAttribute("PixMicroservice")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f802e1d0f2499ff4c35d9eb8f9f86eae1df4bb9")]
+[assembly: System.Reflection.AssemblyProductAttribute("PixMicroservice")]
+[assembly: System.Reflection.AssemblyTitleAttribute("PixMicroservice")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
 
