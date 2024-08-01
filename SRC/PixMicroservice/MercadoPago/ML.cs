@@ -1,4 +1,5 @@
 ﻿using MercadoPago;
+using MercadoPago.Client;
 using MercadoPago.Client.Common;
 using MercadoPago.Client.Payment;
 using MercadoPago.Config;
@@ -8,8 +9,14 @@ using PixMicroservice.MercadoPago;
 
 public class ML : IML
 { 
+
+
     public Payment Pix(PixTransaction pix) 
     {
+       
+
+        var requestOptions = new RequestOptions();
+        requestOptions.CustomHeaders.Add("x-idempotency-key", Guid.NewGuid().ToString());
 
         var paymentRequest = new PaymentCreateRequest
         {
