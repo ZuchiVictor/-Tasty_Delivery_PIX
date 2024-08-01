@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}|PixMicroservice.csproj|c:\\users\\victo\\downloads\\nova pasta (5)\\src\\pixmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}|PixMicroservice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}|PixMicroservice.csproj|c:\\users\\victo\\downloads\\nova pasta (5)\\src\\pixmicroservice\\controllers\\pixtransactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}|PixMicroservice.csproj|solutionrelative:controllers\\pixtransactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353448EF-41AE-4D11-947B-AC8263C6C3D3}|..\\TestProject_PIX\\TestProject_PIX.csproj|c:\\users\\victo\\downloads\\nova pasta (5)\\src\\testproject_pix\\testproject_pix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}|PixMicroservice.csproj|c:\\users\\victo\\downloads\\nova pasta (5)\\src\\pixmicroservice\\pixmicroservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}|PixMicroservice.csproj|solutionrelative:pixmicroservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}|PixMicroservice.csproj|c:\\users\\victo\\downloads\\nova pasta (5)\\src\\pixmicroservice\\context\\pixcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}|PixMicroservice.csproj|solutionrelative:context\\pixcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}|PixMicroservice.csproj|c:\\users\\victo\\downloads\\nova pasta (5)\\src\\pixmicroservice\\eventhandlers\\paymentinitiatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}|PixMicroservice.csproj|solutionrelative:eventhandlers\\paymentinitiatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}|PixMicroservice.csproj|c:\\users\\victo\\downloads\\nova pasta (5)\\src\\pixmicroservice\\sagas\\paymentsaga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}|PixMicroservice.csproj|solutionrelative:sagas\\paymentsaga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}|PixMicroservice.csproj|c:\\users\\victo\\downloads\\nova pasta (5)\\src\\pixmicroservice\\events\\paymentinitiatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}|PixMicroservice.csproj|solutionrelative:events\\paymentinitiatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}|PixMicroservice.csproj|c:\\users\\victo\\downloads\\nova pasta (5)\\src\\pixmicroservice\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}|PixMicroservice.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}|PixMicroservice.csproj|c:\\users\\victo\\downloads\\nova pasta (5)\\src\\pixmicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}|PixMicroservice.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}|PixMicroservice.csproj|c:\\users\\victo\\downloads\\nova pasta (5)\\src\\pixmicroservice\\pixmicroservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}|PixMicroservice.csproj|solutionrelative:pixmicroservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}|PixMicroservice.csproj|c:\\users\\victo\\downloads\\nova pasta (5)\\src\\pixmicroservice\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}|PixMicroservice.csproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}|PixMicroservice.csproj|c:\\users\\victo\\downloads\\nova pasta (5)\\src\\pixmicroservice\\mercadopago\\ml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF74D0D0-5989-4CC5-9930-BDEF29CCCC7F}|PixMicroservice.csproj|solutionrelative:mercadopago\\ml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353448EF-41AE-4D11-947B-AC8263C6C3D3}|..\\TestProject_PIX\\TestProject_PIX.csproj|c:\\users\\victo\\downloads\\nova pasta (5)\\src\\testproject_pix\\pixtransactionscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353448EF-41AE-4D11-947B-AC8263C6C3D3}|..\\TestProject_PIX\\TestProject_PIX.csproj|c:\\users\\victo\\downloads\\nova pasta (5)\\src\\testproject_pix\\paymentinitiatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353448EF-41AE-4D11-947B-AC8263C6C3D3}|..\\TestProject_PIX\\TestProject_PIX.csproj|c:\\users\\victo\\downloads\\nova pasta (5)\\src\\testproject_pix\\paymentinitiatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353448EF-41AE-4D11-947B-AC8263C6C3D3}|..\\TestProject_PIX\\TestProject_PIX.csproj|c:\\users\\victo\\downloads\\nova pasta (5)\\src\\testproject_pix\\paymentsaga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353448EF-41AE-4D11-947B-AC8263C6C3D3}|..\\TestProject_PIX\\TestProject_PIX.csproj|c:\\users\\victo\\downloads\\nova pasta (5)\\src\\testproject_pix\\paymentsagatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353448EF-41AE-4D11-947B-AC8263C6C3D3}|..\\TestProject_PIX\\TestProject_PIX.csproj|c:\\users\\victo\\downloads\\nova pasta (5)\\src\\testproject_pix\\processmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PixTransactionsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\TestProject_PIX\\PixTransactionsControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\TestProject_PIX\\PixTransactionsControllerTests.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\TestProject_PIX\\PixTransactionsControllerTests.cs",
+              "RelativeToolTip": "..\\TestProject_PIX\\PixTransactionsControllerTests.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAawCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T15:33:54.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ML.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\MercadoPago\\ML.cs",
+              "RelativeDocumentMoniker": "MercadoPago\\ML.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\MercadoPago\\ML.cs",
+              "RelativeToolTip": "MercadoPago\\ML.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T15:27:17.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PixContext.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\Context\\PixContext.cs",
+              "RelativeDocumentMoniker": "Context\\PixContext.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\Context\\PixContext.cs",
+              "RelativeToolTip": "Context\\PixContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwDsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T15:25:40.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentSaga.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\Sagas\\PaymentSaga.cs",
+              "RelativeDocumentMoniker": "Sagas\\PaymentSaga.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\Sagas\\PaymentSaga.cs",
+              "RelativeToolTip": "Sagas\\PaymentSaga.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T01:34:46.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T01:56:04.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T01:24:27.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-07-28T22:22:57.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PixMicroservice.http",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\PixMicroservice.http",
+              "RelativeDocumentMoniker": "PixMicroservice.http",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\PixMicroservice.http",
+              "RelativeToolTip": "PixMicroservice.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-28T22:23:21.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentInitiatedEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\EventHandlers\\PaymentInitiatedEventHandler.cs",
+              "RelativeDocumentMoniker": "EventHandlers\\PaymentInitiatedEventHandler.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\EventHandlers\\PaymentInitiatedEventHandler.cs",
+              "RelativeToolTip": "EventHandlers\\PaymentInitiatedEventHandler.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAEwC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T01:33:52.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PixTransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\Controllers\\PixTransactionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PixTransactionsController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\Controllers\\PixTransactionsController.cs",
+              "RelativeToolTip": "Controllers\\PixTransactionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T01:11:28.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentInitiatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\Events\\PaymentInitiatedEvent.cs",
+              "RelativeDocumentMoniker": "Events\\PaymentInitiatedEvent.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\Events\\PaymentInitiatedEvent.cs",
+              "RelativeToolTip": "Events\\PaymentInitiatedEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T01:33:05.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestProject_PIX.csproj",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\TestProject_PIX\\TestProject_PIX.csproj",
+              "RelativeDocumentMoniker": "..\\TestProject_PIX\\TestProject_PIX.csproj",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\TestProject_PIX\\TestProject_PIX.csproj",
+              "RelativeToolTip": "..\\TestProject_PIX\\TestProject_PIX.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-28T22:23:26.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentInitiatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\TestProject_PIX\\PaymentInitiatedEvent.cs",
+              "RelativeDocumentMoniker": "..\\TestProject_PIX\\PaymentInitiatedEvent.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\TestProject_PIX\\PaymentInitiatedEvent.cs",
+              "RelativeToolTip": "..\\TestProject_PIX\\PaymentInitiatedEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:24:29.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PixMicroservice.csproj",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\PixMicroservice.csproj",
+              "RelativeDocumentMoniker": "PixMicroservice.csproj",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\PixMicroservice.csproj",
+              "RelativeToolTip": "PixMicroservice.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T01:24:19.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\PixMicroservice\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:47:31.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PaymentInitiatedEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\TestProject_PIX\\PaymentInitiatedEventHandler.cs",
+              "RelativeDocumentMoniker": "..\\TestProject_PIX\\PaymentInitiatedEventHandler.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\TestProject_PIX\\PaymentInitiatedEventHandler.cs",
+              "RelativeToolTip": "..\\TestProject_PIX\\PaymentInitiatedEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:25:14.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PaymentSaga.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\TestProject_PIX\\PaymentSaga.cs",
+              "RelativeDocumentMoniker": "..\\TestProject_PIX\\PaymentSaga.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\TestProject_PIX\\PaymentSaga.cs",
+              "RelativeToolTip": "..\\TestProject_PIX\\PaymentSaga.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:25:46.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProcessMessage.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\TestProject_PIX\\ProcessMessage.cs",
+              "RelativeDocumentMoniker": "..\\TestProject_PIX\\ProcessMessage.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\TestProject_PIX\\ProcessMessage.cs",
+              "RelativeToolTip": "..\\TestProject_PIX\\ProcessMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:28:08.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaymentSagaTests.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\TestProject_PIX\\PaymentSagaTests.cs",
+              "RelativeDocumentMoniker": "..\\TestProject_PIX\\PaymentSagaTests.cs",
+              "ToolTip": "C:\\Users\\victo\\Downloads\\Nova pasta (5)\\SRC\\TestProject_PIX\\PaymentSagaTests.cs",
+              "RelativeToolTip": "..\\TestProject_PIX\\PaymentSagaTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:29:00.39Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

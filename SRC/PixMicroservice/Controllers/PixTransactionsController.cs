@@ -1,6 +1,8 @@
 ﻿using MercadoPago.Resource.Payment;
 using Microsoft.AspNetCore.Mvc;
 using PixMicroservice.DAO;
+using PixMicroservice.Events;
+using PixMicroservice.Sagas;
 
 
 [Route("api/[controller]")]
@@ -12,9 +14,12 @@ public class PixTransactionsController : ControllerBase
     public PixTransactionsController(IPixContext context)
     {
         _context = context;
+        
     }
+   
 
-    private readonly IPixContext _context;
+    //private readonly PaymentSaga _paymentSaga;
+    public readonly IPixContext _context;
 
     [HttpGet]
     public async Task<ActionResult<IEnumerable<PixTransaction>>> GetPixTransactions(string ChavePix)
@@ -26,13 +31,24 @@ public class PixTransactionsController : ControllerBase
     [HttpPost]
     public async Task<ActionResult<PixTransaction>> PostPixTransaction(PixTransaction transaction)
     {
-        ML mL = new ML();
-        var teste = mL.Pix(transaction);
-        var qrcode = teste.PointOfInteraction.TransactionData.QrCodeBase64;
-        transaction.Id = Guid.NewGuid().ToString();
-        await _context.InsertTransactionAsync(transaction);
-        return CreatedAtAction(nameof(GetPixTransactions), new { id = transaction.Id , QrCode =  qrcode }, transaction);
+        try
+        {
+            ML mL = new ML();
+            var teste = mL.Pix(transaction);
+            var qrcode = teste.PointOfInteraction.TransactionData.QrCodeBase64;
+            transaction.Id = Guid.NewGuid().ToString();
+            await _context.InsertTransactionAsync(transaction);
+            return CreatedAtAction(nameof(GetPixTransactions), new { id = transaction.Id, QrCode = qrcode }, transaction);
+        }
+        catch (Exception ex)
+        { 
+            return BadRequest(ex.Message);
+        }
     }
+   
 
-    
+
+   
+
+
 }
